@@ -26,3 +26,29 @@ A React Native app that consumes the Pokémon API using Axios, with pagination v
 [Context API](https://react.dev/reference/react/createContext) - used to manage simple data and states (light and dark mode).
 
 [Styled Components](https://styled-components.com/) - used to add styles on application components.
+
+### How To Run
+Clone the project in your local environment:
+- SSH:
+  ```bash
+  git clone git@github.com:pestana-catumbela/pokemonapp-3.git
+  ```
+- HTTPS:
+  ```bash
+  git clone https://github.com/pestana-catumbela/pokemonapp-3.git
+  ```
+- GitHub CLI
+  ```bash
+  gh repo clone pestana-catumbela/pokemonapp-3
+  ```
+Into the project cloned directory, install all dependencies you need to run the project locally:
+```bash
+npm install
+```
+
+After that, run the bellow command to run the project:
+```bash
+npx expo start
+```
+
+It gives a QR Code, you can install Expo Go in your device and scan the code or install any emulator (android or ios).
