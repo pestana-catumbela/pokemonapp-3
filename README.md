@@ -64,3 +64,6 @@ It gives a QR Code, you can install Expo Go in your device and scan the code or 
 
 ### Pokemon Screen - Dark
 ![Pokemon Screen - Dark](https://github.com/pestana-catumbela/pokemonapp-3/blob/main/assets/imgs/pokemon-screen-dark.jpeg)
+
+### Pokemon App Video
+https://github.com/user-attachments/assets/12e3f6c7-4b93-40c6-b16f-a1f5dc87fdbf
