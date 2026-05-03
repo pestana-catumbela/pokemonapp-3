@@ -7,7 +7,7 @@ A React Native app that consumes the Pokémon API using Axios, with pagination v
 ### Used Techs
 [React Native](https://reactnative.dev/) - a hybrid framework used to develop native mobile apps.
 
-[Typescript](https://www.typescriptlang.org/) - used to add typing into application and as base programming language.
+[Typescript](https://www.typescriptlang.org/) - used to add typing into application and used as base programming language.
 
 [Expo](https://expo.dev/) - a framework and platform based on React Native to support native mobile apps development.
 
@@ -25,4 +25,4 @@ A React Native app that consumes the Pokémon API using Axios, with pagination v
 
 [Context API](https://react.dev/reference/react/createContext) - used to manage simple data and states (light and dark mode).
 
-[Styled Components](https://styled-components.com/) - used to add styles on application componets.
+[Styled Components](https://styled-components.com/) - used to add styles on application components.
