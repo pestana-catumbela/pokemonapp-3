@@ -52,3 +52,15 @@ npx expo start
 ```
 
 It gives a QR Code, you can install Expo Go in your device and scan the code or install any emulator (android or ios).
+
+### Pokemons Screen - Light
+![Pokemons Screen - Light](https://github.com/pestana-catumbela/pokemonapp-3/blob/main/assets/imgs/pokemons-screen-light.jpeg)
+
+### Pokemon Screen - Light
+![Pokemon Screen - Light](https://github.com/pestana-catumbela/pokemonapp-3/blob/main/assets/imgs/pokemon-screen-light.jpeg)
+
+### Pokemons Screen - Dark
+![Pokemons Screen - Dark](https://github.com/pestana-catumbela/pokemonapp-3/blob/main/assets/imgs/pokemons-screen-dark.jpeg)
+
+### Pokemon Screen - Dark
+![Pokemon Screen - Dark](https://github.com/pestana-catumbela/pokemonapp-3/blob/main/assets/imgs/pokemon-screen-dark.jpeg)
